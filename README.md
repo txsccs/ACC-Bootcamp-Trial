@@ -1,2 +1,1 @@
-# ACC-Bootcamp-Trial
-ACC's Bootcamp Trial Class
+This is the Documentation!
